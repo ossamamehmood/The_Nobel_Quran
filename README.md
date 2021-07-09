@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="" style="{max-height: 50px}" src="./images/banner.png">
+  <img alt="" style="{max-height: 50px}" src="./readme/banner.png">
 </p>
 
 # Online Quran Guidance
